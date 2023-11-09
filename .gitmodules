@@ -1,0 +1,9 @@
+[submodule "submodules/rome"]
+	path = submodules/rome
+	url = https://github.com/kmeng01/rome.git
+[submodule "submodules/ffn-values"]
+	path = submodules/ffn-values
+	url = https://github.com/aviclu/ffn-values.git
+[submodule "submodules/sven"]
+	path = submodules/sven
+	url = https://github.com/eth-sri/sven.git
